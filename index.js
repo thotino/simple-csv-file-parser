@@ -1,11 +1,9 @@
 /**
  * project JSDoc description
- * @module {Object} module name
+ * @module {Object} index
  * @version 1.0.0
- * @author author name
- * @requires dependency 1
- * @requires dependency 2
- * ...
+ * @author Thotino GOBIN-GANSOU
+ * @requires ./lib/formatDataFile
  */
 
 "use strict";
@@ -14,6 +12,7 @@
 // dependencies
 //================================================================================
 const parseFile = require("./lib/formatDataFile");
+
 //================================================================================
 // config
 //================================================================================
