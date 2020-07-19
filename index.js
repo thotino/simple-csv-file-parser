@@ -26,6 +26,4 @@ const parseFile = require("./lib/formatDataFile");
 //================================================================================
 // module
 //================================================================================
-module.exports = {
-    parseFile,
-};
+module.exports = {parseFile};
