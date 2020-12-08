@@ -34,7 +34,7 @@
   "config": {},
   "dependencies": {
     "fs-extra": "9.0.1",
-    "fast-csv": "4.3.1",
+    "fast-csv": "4.3.6",
     "bluebird": "3.7.2"
   },
   "devDependencies": {
